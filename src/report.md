@@ -74,7 +74,7 @@ colophon:
   challenges to the weighting, and requests for the underlying working are welcome at
   research@openmind.com.
 
-  **Suggested citation.** J. Liphardt, S. Chan-Sato, P. Kim, B. Chen, and Anthropic Fable, *The OpenMind Physical AI Readiness Index 2026*,
+  **Suggested citation.** J. Liphardt, S. Chan-Sato, J. Oh, P. Kim, B. Chen, and Anthropic Fable, *The OpenMind Physical AI Readiness Index 2026*,
   Preprint OM-PAIRI-2026-01, OpenMind, August 2026, [openmind.com](https://openmind.com).
 :::
 
