@@ -6,10 +6,10 @@ title:
   a geospatial assessment of where advanced embodied AI
   can be built, powered, supplied and operated
 
-authors: Jan Liphardt, Sean Chan-Sato, Phillip Kim, Boyuan Chen, *and* Anthropic Fable
+authors: Jan Liphardt, Sean Chan-Sato, Jun Oh, Phillip Kim, Boyuan Chen, *and* Anthropic Fable
 
 affiliation:
-  {jan, sean, phillip, boyuan}@openmind.com &middot; research@openmind.com
+  {jan, sean, jun, phillip, boyuan}@openmind.com &middot; research@openmind.com
   San Francisco, CA
 
 abstract:
